@@ -85,7 +85,7 @@ export function HeroSection() {
 
           {/* Main Heading */}
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 animate-fade-in-up text-balance">
-            Электромобили
+            Автомобили
             <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary via-accent to-primary">
               Нового Поколения

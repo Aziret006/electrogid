@@ -37,8 +37,8 @@ export default function ContactPage() {
     {
       icon: MailIcon,
       title: "Email",
-      details: ["info@electrogid.kg", "support@electrogid.kg"],
-      action: "mailto:info@electrogid.kg",
+      details: ["info@Mtradingkg.kg", "support@Mttrading.kg"],
+      action: "mailto:info@Mttrading.kg",
     },
     {
       icon: MapPinIcon,
@@ -179,7 +179,7 @@ export default function ContactPage() {
                     allowFullScreen
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
-                    title="Карта местоположения ELECTRO GID"
+                    title="Карта местоположения Mt trading kg "
                   />
                 </div>
                 <div className="space-y-4">

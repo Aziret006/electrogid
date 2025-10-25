@@ -7,19 +7,17 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           {/* Brand */}
           <div>
-            <div className="flex items-center gap-3 mb-4">
-              <div className="w-10 h-10 bg-gradient-to-br from-primary to-accent rounded-lg flex items-center justify-center">
-                <span className="text-lg font-bold text-white">EG</span>
-              </div>
+            <div className="flex items-center gap-4 mb-4">
+             <img src="/mtrading.jpg" alt="" className="w-14 h-14 rounded-[10%]" />
               <div>
-                <div className="text-lg font-bold">ELECTRO GID</div>
-                <div className="text-xs text-muted-foreground">Электромобили</div>
+                <div className="text-lg font-bold">Mt trading kg</div>
+                <div className="text-xs text-muted-foreground">Автомобили</div>
               </div>
             </div>
             <p className="text-sm text-muted-foreground mb-4">Продажа и обслуживание электромобилей в Кыргызстане</p>
             <div className="flex items-center gap-3">
               <a
-                href="https://instagram.com/electrogid.kg"
+                href="https://instagram.com/Mttrading.kg"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-muted hover:bg-primary hover:text-white transition-colors flex items-center justify-center"
@@ -91,10 +89,10 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="mailto:info@electrogid.kg"
+                  href="mailto:info@Mttrading.kg"
                   className="text-muted-foreground hover:text-primary transition-colors"
                 >
-                  info@electrogid.kg
+                  info@Mttrading.kg
                 </a>
               </li>
               <li>
@@ -113,7 +111,7 @@ export function Footer() {
 
         {/* Bottom Bar */}
         <div className="pt-8 border-t border-border text-center text-sm text-muted-foreground">
-          <p>© 2025 ELECTRO GID. Все права защищены.</p>
+          <p>© 2025 Mt trading kg. Все права защищены.</p>
         </div>
       </div>
     </footer>

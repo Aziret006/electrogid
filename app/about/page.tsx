@@ -25,7 +25,7 @@ export default function AboutPage() {
     },
     {
       title: "Инновации",
-      description: "Мы следим за последними технологиями и предлагаем самые современные электромобили",
+      description: "Мы следим за последними технологиями и предлагаем самые современные Автомобили",
       icon: ZapIcon,
     },
     {
@@ -45,7 +45,7 @@ export default function AboutPage() {
             <div className="max-w-3xl mx-auto text-center">
               <Badge className="mb-4">О компании</Badge>
               <h1 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-                ELECTRO GID - Ваш проводник в мир электромобилей
+                Mt trading kg - Ваш проводник в мир электромобилей
               </h1>
               <p className="text-lg text-muted-foreground leading-relaxed">
                 Мы специализируемся на продаже и обслуживании электромобилей в Кыргызстане. Наша миссия - сделать
@@ -77,7 +77,7 @@ export default function AboutPage() {
               <h2 className="text-3xl font-bold mb-8 text-center">Наша история</h2>
               <div className="space-y-6 text-muted-foreground leading-relaxed">
                 <p>
-                  ELECTRO GID была основана в 2020 году группой энтузиастов, которые верили в будущее электрического
+                  Mt trading kg была основана в 2020 году группой энтузиастов, которые верили в будущее электрического
                   транспорта. Мы начинали с небольшого офиса и нескольких автомобилей, но наша страсть к инновациям и
                   качественному сервису помогла нам вырасти в одну из ведущих компаний по продаже электромобилей в
                   Кыргызстане.
@@ -87,7 +87,7 @@ export default function AboutPage() {
                   тем, что каждый проданный нами автомобиль - это вклад в чистое будущее нашей страны.
                 </p>
                 <p>
-                  Сегодня ELECTRO GID - это не просто автосалон. Это полноценная экосистема для владельцев
+                  Сегодня Mt trading kg - это не просто автосалон. Это полноценная экосистема для владельцев
                   электромобилей: от продажи и доставки до установки зарядных станций и сервисного обслуживания.
                 </p>
               </div>
@@ -123,7 +123,7 @@ export default function AboutPage() {
             <div className="max-w-3xl mx-auto text-center">
               <h2 className="text-3xl font-bold mb-6">Наша команда</h2>
               <p className="text-lg text-muted-foreground leading-relaxed mb-8">
-                Команда ELECTRO GID состоит из профессионалов с многолетним опытом в автомобильной индустрии. Мы
+                Команда Mt trading kg состоит из профессионалов с многолетним опытом в автомобильной индустрии. Мы
                 постоянно обучаемся и следим за новейшими технологиями, чтобы предоставлять нашим клиентам лучший
                 сервис.
               </p>

@@ -37,12 +37,11 @@ export function Header() {
         <div className="flex items-center justify-between h-20">
           <Link href="/" className="flex items-center gap-3 group">
             <div className="relative w-12 h-12 bg-linear-to-br from-primary via-primary/80 to-accent rounded-lg flex items-center justify-center transition-all duration-300 group-hover:scale-110 group-hover:shadow-[0_0_20px_rgba(0,245,255,0.5)]">
-              <span className="text-2xl font-bold text-background">EG</span>
-              <div className="absolute inset-0 rounded-lg bg-primary/20 blur-md group-hover:blur-lg transition-all duration-300" />
+              <img src="/mtrading.jpg" alt="" className="w-20 h-14 rounded-[10%]" />
             </div>
             <div className="hidden md:block">
-              <div className="text-xl font-bold text-foreground tracking-tight">ELECTRO GID</div>
-              <div className="text-xs text-primary font-medium">Электромобили</div>
+              <div className="text-xl font-bold text-foreground tracking-tight">Mt trading kg</div>
+              <div className="text-xs text-primary font-medium">Автомобиль</div>
             </div>
           </Link>
 
